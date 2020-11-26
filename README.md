@@ -7,4 +7,4 @@ If you use anaconda please create your environment and install pytorch and fasta
 1. git clone this repository
 2. run each cell in egg_app_finish.ipynb in your local
 3. select your fried egg/omelette then click on classify.
-[![IMAGE ALT TEXT HERE]](https://youtu.be/6xNEK4WI_I8)
+[See DEMO here](https://youtu.be/6xNEK4WI_I8)
